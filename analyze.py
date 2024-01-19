@@ -3,7 +3,7 @@ from msrest.authentication import CognitiveServicesCredentials
 from azure.cognitiveservices.vision.computervision.models import OperationStatusCodes
 import time
 import json
-
+#config file
 config_file_path = "config.json"
 
 try:
